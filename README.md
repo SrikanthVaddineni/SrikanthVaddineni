@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Fdevops-banner.html&psig=AOvVaw3OM_HcdXuFTEH40AsWx3et&ust=1693479435260000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMCcidOchIEDFQAAAAAdAAAAABAJ)]
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)]
 <h1 align="center">Hi 👋, I'm SrikanthVaddineni</h1>
 <h3 align="center">Navigating as an AWS Engineer from India</h3>
 (img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
