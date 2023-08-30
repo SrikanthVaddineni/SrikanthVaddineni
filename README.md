@@ -14,12 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Fdevops-banner.html&psig=AOvVaw0chwJERXMmiG-M-zJOuAeD&ust=1693479970025000&source=images&cd=vfe&opi=89978449&ved=0CBAQjRxqFwoTCMChmdWehIEDFQAAAAAdAAAAABAE)]
+
 <h1 align="center">Hi 👋, I'm SrikanthVaddineni</h1>
 <h3 align="center">Navigating as an AWS Engineer from India</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
-
-
+(img align="right" alt="Coding" width="400" src="https://media.tenor.com/vPNYwVMYbiUAAAAd/crm-development-erp-development.gif")
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanthvaddineni&label=Profile%20views&color=0e75b6&style=flat" alt="srikanthvaddineni" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srikanthvaddineni" alt="srikanthvaddineni" /></a> </p>
