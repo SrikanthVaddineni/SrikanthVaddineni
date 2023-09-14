@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SrikanthVaddineni</h1>
-<h3 align="center">Navigating as an AWS Engineer from India</h3>
+<h3 align="center">Srikanth is a passionate DevOps Engineer from India, working on Cloud and DevOps Projects And Looking for DevOps Entry Level Role . Feel free to reach out to Vaddenenisrikanth@gmail.com.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanthvaddineni&label=Profile%20views&color=0e75b6&style=flat" alt="srikanthvaddineni" /> </p>
 
@@ -7,13 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@sreekan15150904" target="blank"><img src="https://img.shields.io/twitter/follow/@sreekan15150904?logo=twitter&style=for-the-badge" alt="@sreekan15150904" /></a> </p>
 
-- 🔭 I’m currently working on [Elevating-Development-with-Seamless-CI-CD-Implementation-on-AWS](https://github.com/SrikanthVaddineni/Elevating-Development-with-Seamless-CI-CD-Implementation-on-AWS-.git)
+- 🔭 I’m currently working on **I work on DevOps, Microservices, containers, and everything around it.**
 
 - 🌱 I’m currently learning **AWS Tools**
 
-- 👯 I’m looking to collaborate on **Devops Projects**
-
-- 📝 I regularly write articles on [https://medium.com/@vaddenenisrikanth](https://medium.com/@vaddenenisrikanth)
+- 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on Cloud-native Projects**
 
 - 💬 Ask me about **AWS & Tools , Automation Testing**
 
@@ -36,4 +34,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=srikanthvaddineni&show_icons=true&locale=en" alt="srikanthvaddineni" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=srikanthvaddineni&" alt="srikanthvaddineni" /></p>
-
