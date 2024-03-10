@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/@sreekan15150904" target="blank"><img src="https://img.shields.io/twitter/follow/@sreekan15150904?logo=twitter&style=for-the-badge" alt="@sreekan15150904" /></a> </p>
 
-- 🔭 I’m currently working on **I work on DevOps, Microservices, containers, and everything around it.**
+- 🔭 I’m currently working on **I work on Testing, Selenium, TEstNG, and everything around it.**
 
-- 🌱 I’m currently learning **AWS Tools**
+- 🌱 I’m currently learning ** Testing Tools**
 
-- 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on Cloud-native Projects**
+- 👯 I’m looking to collaborate on **👯 I’m looking to collaborate on Testing-native Projects**
 
 - 💬 Ask me about **AWS & Tools , Automation Testing**
 
