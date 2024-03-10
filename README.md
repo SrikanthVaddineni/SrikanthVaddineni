@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SrikanthVaddineni</h1>
-<h3 align="center">Srikanth is a passionate DevOps Engineer from India, working on Cloud and DevOps Projects And Looking for DevOps Entry Level Role . Feel free to reach out to Vaddenenisrikanth@gmail.com.</h3>
+<h3 align="center">i Am a  passionate Automation Engineer from India, working on Testing  and Finding the bugs  And Looking for Testing Entry Level Role . Feel free to reach out to Vaddenenisrikanth@gmail.com.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=srikanthvaddineni&label=Profile%20views&color=0e75b6&style=flat" alt="srikanthvaddineni" /> </p>
 
